@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: timidity
+Version: 0.1.2
+Summary: A lightweight Python MIDI player
+Home-page: https://github.com/JinayJain/timidity
+Author: Jinay Jain
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: simpleaudio
+Requires-Dist: numpy
+Requires-Dist: scipy
+
+# TiMIDIty
+
+A simple package for playing MIDI files
+
+
